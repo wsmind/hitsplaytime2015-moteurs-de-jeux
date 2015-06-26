@@ -1,0 +1,12 @@
+Moteurs de jeux
+
+Moteur?
+	Composant _reutilisable_ entre plusieurs jeux (théoriquement ^^)
+	Archi overview
+
+Diversité
+	Types de jeux
+	Platformes
+	
+
+Questions?
